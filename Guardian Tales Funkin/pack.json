@@ -1,0 +1,8 @@
+{
+	"name": "Caseoh Mod",
+	"description": "",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [34, 32, 54],
+	"iconFramerate": 10
+}
