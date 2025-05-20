@@ -1,0 +1,2 @@
+value1=Time in Beats default=15
+value2=New Word

@@ -1,0 +1,2 @@
+value1:offsets between words in steps separate by ","
+value2:the phrase separate with "/"
